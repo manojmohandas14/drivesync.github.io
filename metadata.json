@@ -1,0 +1,6 @@
+{
+  "name": "DriveSync",
+  "description": "Autonomous Vehicle safety validation and fleet telemetry command center analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
